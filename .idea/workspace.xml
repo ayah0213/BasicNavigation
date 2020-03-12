@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841fc117-88c9-4ad7-b34b-c57f07bc8491" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicNavigationTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cbt/tests/NavigationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/BrowserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/StringUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cbt/tests/NavigationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cbt/utilities/BrowserFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cbt/utilities/StringUtility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    <list default="true" id="841fc117-88c9-4ad7-b34b-c57f07bc8491" name="Default Changelist" comment="Homework2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/TitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/TitleVerification2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cbt/utilities/TitleVerification3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cbt/utilities/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cbt/utilities/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cbt/tests/NavigationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cbt/tests/NavigationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +40,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TitleVerification3">
     <configuration name="NavigationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cbt.tests.NavigationTests" />
       <module name="BasicNavigationTest" />
@@ -61,8 +56,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleVerification2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification2" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleVerification3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cbt.utilities.TitleVerification3" />
+      <module name="BasicNavigationTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cbt.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TitleVerification3" />
+        <item itemvalue="Application.TitleVerification2" />
+        <item itemvalue="Application.TitleVerification" />
         <item itemvalue="Application.NavigationTests" />
       </list>
     </recent_temporary>
@@ -78,25 +115,54 @@
       <option name="presentableId" value="Default" />
       <updated>1583720372006</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework">
+      <created>1583731806463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583731806463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework" />
+    <MESSAGE value="Homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1583729753830">
+    <state x="481" y="234" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583990124771">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1583729753830" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1583729753830">
+    <state x="481" y="234" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1360.728@0.0.1360.728" timestamp="1583990124771" />
+    <state x="360" y="35" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1583911350337">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1583729753830" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1583729753830">
+    <state x="360" y="35" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1360.728@0.0.1360.728" timestamp="1583911350337" />
+    <state x="611" y="0" key="CommitChangelistDialog2" timestamp="1583990160437">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1583729753830" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1583729753830">
+    <state x="611" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1583990160437" />
+    <state width="1317" height="486" key="GridCell.Tab.0.bottom" timestamp="1583989957526">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1583729753830" />
+    <state width="1317" height="486" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1583989957526" />
+    <state width="1317" height="486" key="GridCell.Tab.0.center" timestamp="1583989957525">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="486" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1583989957525" />
+    <state width="1317" height="486" key="GridCell.Tab.0.left" timestamp="1583989957525">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="486" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1583989957525" />
+    <state width="1317" height="486" key="GridCell.Tab.0.right" timestamp="1583989957525">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="486" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1583989957525" />
+    <state x="544" y="108" key="Vcs.Push.Dialog.v2" timestamp="1583731810218">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="544" y="108" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1583731810218" />
     <state x="388" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1583729079601">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
